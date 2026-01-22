@@ -1,4 +1,4 @@
-## 👩‍💻 About Me
+## About Me
 
 I am an aspiring **Full-Stack Web Developer** with hands-on experience in building responsive and scalable applications.
 I have a strong foundation in **JavaScript, React, and backend development**, and I enjoy turning ideas into functional digital products.
@@ -9,7 +9,7 @@ I have a strong foundation in **JavaScript, React, and backend development**, an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ###  Languages
 
