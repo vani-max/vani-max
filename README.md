@@ -76,7 +76,7 @@ class VaniVashishtha:
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=vanivashishtha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanivashishtha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
 </div>
 ---
  
