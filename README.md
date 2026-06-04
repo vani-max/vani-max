@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AIML+Engineer+%26+Researcher;Multi-Agent+AI+%7C+RAG+%7C+LLM+Systems;Building+intelligent+systems%2C+one+model+at+a+time." alt="Typing SVG" />
 </div>
 <br>
+
 ```python
 class VaniVashishtha:
     role       = "AIML Engineer & Researcher"
@@ -34,6 +35,7 @@ class VaniVashishtha:
 `Next.js` `TypeScript` `React Flow` `Tailwind` `Prisma`
  
 <br>
+
 **Crop Yield Prediction Agent**
 > LangGraph multi-agent system for agricultural intelligence
  
@@ -43,6 +45,7 @@ class VaniVashishtha:
 `LangGraph` `ChromaDB` `GPT-4o` `LLaMA-3` `FastAPI`
  
 <br>
+
 **CNN on CIFAR-10**
 > Deep learning architecture research
  
@@ -71,16 +74,10 @@ class VaniVashishtha:
 ---
  
 ### GitHub Stats
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vani-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-</div>
 ---
  
 <div align="center">
-[LinkedIn](https://linkedin.com/in/vanivashishtha111) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/vani_vashishtha11/) &nbsp;·&nbsp; [Portfolio](https://portfolio.com) &nbsp;·&nbsp; vaanisharrmaa121@gmail.com
+[LinkedIn](https://linkedin.com/in/vanivashishtha111) &nbsp; &nbsp; [LeetCode](https://leetcode.com/u/vani_vashishtha11/) &nbsp; &nbsp; [Portfolio](https://portfolio.com) &nbsp; &nbsp; vaanisharrmaa121@gmail.com
  
 </div>
  
