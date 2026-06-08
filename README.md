@@ -1,6 +1,6 @@
 ## Hellooo I am Vani!
 
-<h1 align="center">Hi 👋, I'm Vani Vashishtha</h1>
+<h1 align="center">Hi , I'm Vani Vashishtha</h1>
 
 <h3 align="center">AI/ML Engineer • Researcher • Quant Enthusiast</h3>
 
