@@ -1,84 +1,28 @@
+# Hi 👋, I'm Vani Vashishtha
+About Me<br><br>AI/ML Engineer & Researcher passionate about building next-generation intelligent systems.<br><br>B.Tech in Artificial Intelligence @ Rishihood University <br><br>Areas of Interest:<br>Multi-Agent AI<br>Retrieval-Augmented Generation (RAG)<br>Large Language Models (LLMs)<br>AI Agents & Autonomous Systems<br>Applied Machine Learning Research<br><br>Highlights:<br>Gold Level @ WorldQuant Brain (Top 20% Globally)<br>Solved 180+ LeetCode Problems<br>Building AI systems that bridge research and real-world applications<br><br>I enjoy tackling complex problems at the intersection of AI, software engineering, and quantitative research, with a focus on creating scalable and impactful solutions.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanivashishtha111) 
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AIML+Engineer+%26+Researcher;Multi-Agent+AI+%7C+RAG+%7C+LLM+Systems;Building+intelligent+systems%2C+one+model+at+a+time." alt="Typing SVG" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<br>
 
-```python
-class VaniVashishtha:
-    role       = "AIML Engineer & Researcher"
-    education  = "B.Tech AI @ Rishihood University — 9.09 GPA"
-    focus      = ["Multi-Agent AI", "RAG Pipelines", "LLM Systems"]
-    leetcode   = "180+ problems solved"
-    worldquant = "Gold Level — Top 5% globally"
-```
- 
-<br>
----
- 
-### AI & Research
- 
-| Multi-Agent AI | RAG & LLMs | Quant Research |
-|---|---|---|
-| LangGraph · 5 specialized agents | ChromaDB + LLaMA-3 + GPT-4o | **Gold Level** · WorldQuant BRAIN |
-| Custom Random Forest · 98.6% accuracy | Offline RAG pipelines | Top 5% globally |
-| Parallel multimodal DAG execution | Hallucination reduction | 400+ simulations |
- 
----
- 
-### Projects
- 
-**NextFlow — AI Workflow Builder**
-> Visual DAG-based AI workflow system
- 
-- 6 custom node types with drag-and-drop DAG execution and type-safe connections
-- Groq API, Trigger.dev, Clerk, PostgreSQL + Prisma — deployed on Vercel
-`Next.js` `TypeScript` `React Flow` `Tailwind` `Prisma`
- 
-<br>
 
-**Crop Yield Prediction Agent**
-> LangGraph multi-agent system for agricultural intelligence
- 
-- 5 LangGraph agents + custom Random Forest achieving **98.6% accuracy**
-- Offline RAG with ChromaDB grounding LLM responses in verified agricultural data
-- FastAPI + Streamlit + Plotly with intelligent API failover
-`LangGraph` `ChromaDB` `GPT-4o` `LLaMA-3` `FastAPI`
- 
-<br>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vani-max&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vani-max&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vani-max&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**CNN on CIFAR-10**
-> Deep learning architecture research
- 
-- ANN vs CNN comparison with Dropout regularization · confusion matrices & loss curves
-`Python` `TensorFlow` `Streamlit`
- 
----
- 
-### Stack
- 
-**AI / ML** &nbsp; `Python` `LangChain` `LangGraph` `GPT-4o` `LLaMA-3` `ChromaDB` `Pandas` `NumPy`
- 
-**Full Stack** &nbsp; `TypeScript` `Next.js` `React` `FastAPI` `PostgreSQL` `MongoDB`
- 
-**Tools** &nbsp; `Git` `Vercel` `Tableau` `Postman`
- 
----
- 
-### Achievements
- 
-- **Gold Level — WorldQuant BRAIN** · Top 5% globally in trading signal development
-- **Google Girl Hackathon 2025** · Participant
-- **Big Code 2026** · Participant
-- **VP, Robotics Club** · Two-time Competitions Department Lead
-- 180+ LeetCode problems · 400+ WorldQuant simulations
----
- 
-### GitHub Stats
----
- 
-<div align="center">
-[LinkedIn](https://linkedin.com/in/vanivashishtha111) &nbsp; &nbsp; [LeetCode](https://leetcode.com/u/vani_vashishtha11/) &nbsp; &nbsp; [Portfolio](https://portfolio.com) &nbsp; &nbsp; vaanisharrmaa121@gmail.com
- 
-</div>
- 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://komarev.com/ghpvc/?username=vani-max&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
